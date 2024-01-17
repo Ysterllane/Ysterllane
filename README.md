@@ -6,7 +6,7 @@
  <p align="center"> 
   🎈 I’m currently learning Programing Logic
  <p align="center"> 
-  👑 I’m looking for help with JavaScript, Html and CSS
+  👑 I’m looking for help with Js, Html and CSS
 </p>
 
 <div align="center">
