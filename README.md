@@ -6,4 +6,4 @@
  <p align="center"> 
   🎈 I’m currently learning Programing Logic
  <p align="center"> 
-  👑 I’m looking for help with Js</p>
+  👑 I’m looking for help with PHP</p>
